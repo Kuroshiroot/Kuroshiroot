@@ -19,7 +19,7 @@ Currently, I am honing my offensive security skills on **TryHackMe** and **Hackv
 ### 🛠️ Technical Toolkit
 - **Reconnaissance & Scanning:** Nmap, Dirbuster, Gobuster, Nikto.
 - **Exploitation & Assessment:** Burp Suite, Metasploit Framework, SQLmap.
-- **Environment:** Linux (Kali/Parrot), Windows Lab Environments.
+- **Environment:** Linux, Windows Lab Environments.
 - **Certifications:** eJPT (In Progress), Cisco Ethical Hacker, CAPT.
 
 ---
