@@ -11,7 +11,7 @@ Currently, I am honing my offensive security skills on **TryHackMe** and **Hackv
 ### 🚀 About Me
 - 🎓 **Background:** Associate Degree in Russian Translation & Former Philology Student (Full Scholarship in Russia).
 - 🎯 **Focus:** Web Application Pentesting, Network Security, and Red Teaming Fundamentals.
-- 🏆 **Achievements:** Ranked in the **Top 4%** on TryHackMe (Sapphire League).
+- 🏆 **Achievements:** Ranked in the **Top 3%** on TryHackMe (Sapphire League).
 - 🌐 **Languages:** Turkish (Native), Russian (Professional Proficiency), English (B1 / Technical).
 
 ---
@@ -20,16 +20,10 @@ Currently, I am honing my offensive security skills on **TryHackMe** and **Hackv
 - **Reconnaissance & Scanning:** Nmap, Dirbuster, Gobuster, Nikto.
 - **Exploitation & Assessment:** Burp Suite, Metasploit Framework, SQLmap.
 - **Environment:** Linux, Windows Lab Environments.
-- **Certifications:** eJPT (In Progress), Cisco Ethical Hacker, CAPT.
+- **Certifications:** eJPT, ICCA, Cisco Ethical Hacker, CAPT.
 
 ---
 
-### ✍️ Current Goals
-- 🛡️ Obtaining the **eJPT (Junior Penetration Tester)** certification.
-- 🐍 Learning **Python** and **Bash** for security automation.
-- 📝 Documenting CTF challenges and publishing write-ups.
-
----
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Furkan Baydar](https://www.linkedin.com/in/furkan-baydar-b00367376/)
