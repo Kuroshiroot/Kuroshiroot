@@ -4,7 +4,7 @@
 
 I am a Cybersecurity enthusiast with a background in Russian Translation. After studying Philology in Russia on a full scholarship, I decided to leave my studies to pursue my true passion: **Cybersecurity**. 
 
-Currently, I am honing my offensive security skills on **TryHackMe** and **Hackviser**, while actively preparing for the **eJPT** certification.
+Currently, I am honing my offensive security skills on **TryHackMe** and **Hackviser**.
 
 ---
 
